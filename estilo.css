@@ -1,0 +1,18 @@
+
+div{
+	height:1000px;
+	width:1000px;}
+
+.general {
+	margin: auto;
+	width: 960px;
+	height: 800px;
+	background-color: red;
+}
+
+.cuadrado {
+     width: 500px; 
+     height: 20px; 
+     position: relative; top: 20%; left: 20%;
+     background: black;
+}
