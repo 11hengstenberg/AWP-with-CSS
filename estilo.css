@@ -3,16 +3,145 @@ div{
 	height:1000px;
 	width:1000px;}
 
-.general {
-	margin: auto;
-	width: 960px;
-	height: 800px;
-	background-color: red;
+
+
+.cuadrado-2{
+	 width: 25px; 
+     height: 25px; 
+     position: relative; top: -15%; left: 10%;
+     background: black;
+     border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+	border: 0px solid #000000;
+
 }
 
 .cuadrado {
-     width: 500px; 
+     width: 600px; 
      height: 20px; 
-     position: relative; top: 20%; left: 20%;
+     position: relative; top: 20%; left: 0%;
      background: black;
+     border-radius: 11px 11px 11px 11px;
+	-moz-border-radius: 11px 11px 11px 11px;
+	-webkit-border-radius: 11px 11px 11px 11px;
+	border: 0px solid #000000;
+}
+
+.cuerpo{
+	 width: 400px; 
+     height: 65px; 
+     position: relative; top: -125%; left: 90%;
+     background: black;
+     border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+	border: 0px solid #000000;
+
+}
+
+.palo{
+	 width: 300px; 
+     height: 10px; 
+     position: relative; top: -175%; left: 50%;
+     background: black;
+     border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+	border: 0px solid #000000;
+
+}
+
+.circulo {
+     width: 50px;
+     height: 50px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     position: relative; top: -380%; left: 92%;
+     background: black;
+}
+
+.palo1{
+	 width: 100px; 
+     height: 15px; 
+     position: relative; top: -470%; left: 80%;
+     background: black;
+     border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border: 0px solid #000000;
+
+}
+
+.palo2{
+	 width: 30px; 
+     height: 15px; 
+     position: relative; top: -567%; left: 72%;
+     background: black;
+     border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border: 0px solid #000000;
+
+}
+
+.goma{
+	 width: 30px; 
+     height: 15px; 
+     position: relative; top: -640%; left: 50%;
+     background: black;
+   	border-radius: 34px 200px 200px 34px;
+	-moz-border-radius: 34px 200px 200px 34px;
+	-webkit-border-radius: 34px 200px 200px 34px;
+	border: 0px inset #000000;
+
+}
+
+.paralelogramo {
+     width: 60px; 
+     height: 40px;  
+     background: black;
+     position: relative; top: -700%; left: 130%;
+     -webkit-transform: skew(20deg);
+     -moz-transform: skew(20deg);
+     -ms-transform: skew(20deg);
+     -o-transform: skew(20deg);
+     transform: skew(20deg);
+}
+
+.cuadradito {
+     width: 250px; 
+     height:102px; 
+     position: relative; top: -1210%; left: 132%;
+     background: black;
+	border-radius: 40px 0px 0px 0px;
+	-moz-border-radius: 40px 0px 0px 0px;
+	-webkit-border-radius: 40px 0px 0px 0px;
+	border: 0px solid #000000;
+
+}
+
+.cargador {
+     width: 120px; 
+     height: 40px; 
+     position: relative; top: -1300%; left: 135%;
+     background: black;
+
+}
+
+.palomira {
+     width: 15px; 
+     height: 40px; 
+     position: relative; top: -270%; left: 40%;
+     background: black;
+
+}
+
+.palomira2 {
+     width: 15px; 
+     height: 40px; 
+     position: relative; top: -370%; left: 140%;
+     background: black;
+
 }
