@@ -16,15 +16,14 @@ div{
 	border: 0px solid #000000;
 
 }
-
 .cuadrado {
      width: 600px; 
      height: 20px; 
      position: relative; top: 20%; left: 0%;
      background: black;
-     border-radius: 11px 11px 11px 11px;
-	-moz-border-radius: 11px 11px 11px 11px;
-	-webkit-border-radius: 11px 11px 11px 11px;
+     border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 11px 5px 5px;
 	border: 0px solid #000000;
 }
 
@@ -144,4 +143,188 @@ div{
      position: relative; top: -370%; left: 140%;
      background: black;
 
+}
+
+.mira {
+     width: 300px; 
+     height: 25px; 
+     position: relative; top: -530%; left:-30%;
+     background: black;
+
+}
+
+.reticulo {
+     width: 45px; 
+     height: 40px; 
+     position: relative; top: -615%; left:-31%;
+     background: black;
+     border-radius: 11px 0px 0px 11px;
+	-moz-border-radius: 11px 0px 0px 11px;
+	-webkit-border-radius: 11px 0px 0px 11px;
+	border: 0px solid #000000;
+
+}
+
+.triangulo {
+     width: 41; 
+     height: 0; 
+     border-left: 45px solid black;
+     border-top: 20px solid transparent;
+     border-bottom: 20px solid transparent;
+     position: relative; top: -716%; left:6%;	
+}
+
+
+.cuadrado14 {
+     width: 15px; 
+     height: 30px; 
+     position: relative; top: -810%; left:90%;
+     background: black;
+
+}
+
+.cuadrado15 {
+     width: 20px; 
+     height: 10px; 
+     position: relative; top: -900%; left:88%;
+     background: black;
+     border-radius: 125px 125px 0px 0px;
+	-moz-border-radius: 125px 125px 0px 0px;
+	-webkit-border-radius: 125px 125px 0px 0px;
+	border: 0px solid #000000;
+
+}
+
+.reticulo2 {
+     width: 35px; 
+     height: 30px; 
+     position: relative; top: -900%; left:201%;
+     background: black;
+     border-radius: 0px 11px 11px 00px;
+	-moz-border-radius: 0px 11px 11px 0px;
+	-webkit-border-radius: 0px 11px 11px 0px;
+	border: 0px solid #000000;
+
+}
+
+.gatito {
+     width: 45px; 
+     height: 30px; 
+     position: relative; top: -686%; left:135%;
+     background: white;
+     border-radius: 40px 100px 100px 40px;
+	-moz-border-radius: 40px 100px 100px 40px;
+	-webkit-border-radius: 40px 100px 100px 40px;
+	border: 0px solid #000000;
+
+}
+
+.luna {
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -moz-box-shadow: 0px -150px  black;
+    -webkit-box-shadow: 0px -15px  black;
+    box-shadow: 0px -15px 	 black;
+    position: relative; top: -775%; left:100%;
+}
+
+.culata1{
+	 width: 150px; 
+     height: 130px; 
+     position: relative; top: -1050%; left: 180%;
+     background: black;
+	border-radius: 0px 0px 0px 40px;
+	-moz-border-radius: 0px 0px 0px 40px;
+	-webkit-border-radius: 0px 0px 0px 40px;
+	border: 0px solid #000000;
+
+}
+
+.circulo12 {
+     width: 75px;
+     height: 75px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: relative; top: -1320%; left: 200%;
+}
+
+.circulo13 {
+     width: 65px;
+     height: 65px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: relative; top: -1280%; left: 230%;
+}
+
+.circulo14 {
+     width: 75px;
+     height: 75px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: relative; top: -1530%; left: 260%;
+}
+
+.culatafinal{
+	 width: 250px; 
+     height: 130px; 
+     position: relative; top: -1955%; left: 300%;
+     background: black;
+	border-radius: 15px 11px 11px 11px;
+	-moz-border-radius: 15px 11px 11px 11px;
+	-webkit-border-radius: 15px 11px 11px 11px;
+	border: 0px solid #000000;
+
+}
+
+.culatafinal2{
+	 width: 70px; 
+     height: 130px; 
+     position: relative; top: -2042%; left: 265%;
+     background: white;
+     border-radius: 40px 40px 0px 0px;
+	-moz-border-radius: 40px 40px 0px 0px;
+	-webkit-border-radius: 40px 40px 0px 0px;
+	border: 0px solid #000000;
+
+
+}
+
+.holamundo {
+     width: 600px;
+     height: 600px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white	;
+     position: relative; top: -2330%; left: 160%;
+}
+
+.holamundo100{
+	 width: 70px; 
+     height: 100px; 
+     position: relative; top: -4122%; left: 450%;
+     background: black;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 0px solid #000000;
+}
+
+.holamundo400 {
+     width: 600px;
+     height: 600px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white	;
+     position: relative; top: -4930%; left: 503%;
 }
